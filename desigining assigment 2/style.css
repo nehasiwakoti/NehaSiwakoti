@@ -1,0 +1,246 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+   
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+.header{
+    background: linear-gradient(25.13deg, #EF2779 0.79%, #7834BE 79.29%);
+}
+.header-left{
+    float: left;
+}
+.header-right{
+    float: right;
+}
+.header-right ul{
+    list-style: none;
+}
+.header-right ul li {
+    display: inline; 
+    color: #ffff;
+    padding: 0px 10px;
+     display: none;
+}
+.header-right span{
+    display: block;
+    padding:20px;
+}
+
+button{
+    color: red;
+    height: 45px;
+    width: 110px;
+        border-radius: 10px;
+        display: none;
+    }
+    input[type=text] {
+        width: 110px;
+        padding: 12px 20px;
+        margin: 8px 0;
+        box-sizing: border-box;
+        border-radius: 10px;
+        display: none;
+      }
+      .banner{
+          background-image: url(img/Rectangle\ 9.png);
+          text-align: center;
+          
+
+                }
+      .banner-right{
+          width: 100%;
+          float: right;
+          padding: 20px 5px;
+          
+      }
+      .banner-right h2{
+        font-style: normal;
+        
+        font-size: 35px;
+        color: #ffff;
+        
+      }
+      .banner-right p{
+          margin: 10px 5px;
+      }
+      .banner-left{
+          width: 100%;
+          float: left;
+      }
+    
+      .banner button{
+        color: skyblue;
+        height: 45px;
+        width: 110px;
+            border-radius: 20px;
+            display: block;
+            padding: 10px 0;
+            margin: auto;
+        }
+        .middle{
+            text-align: center;
+            background-color: #fff;
+            padding: 20px 0;
+        }
+        .middle h2{
+            padding: 20px 0;
+        }
+        .middle-section{
+            padding: 20px 0;
+        }
+         .products{
+            float: left;
+             width: 30%;
+        }
+        .products a{
+            font-size: 18px;
+            font-weight: bold;
+        }
+        .fatest{
+            float: left;
+            width: 30%;
+        }
+        .fatest a{
+            font-size: 18px;
+            font-weight: bold;
+        }
+        .work{
+            float: right;
+              width: 30%;
+        }
+        .work a{
+            font-size: 18px;
+            font-weight: bold;
+        }
+        .laptop-part{
+            padding: 30px 0;
+            text-align: center;
+            
+        }
+        .laptop-section h2{
+            padding: 10px 0;
+        }
+        .laptop-section p{
+            padding: 10px 0;
+        }
+        .laptop-section img{
+          
+            margin-top: 30px;
+            width: 35%;
+            height: 30%;
+            
+        }
+
+        .laptop-section button{
+            color: #fff;
+            height: 45px;
+            width: 110px;
+                border-radius: 20px;
+                display: block;
+                background-color: #38A3F1;
+                padding: 10px 0;
+                margin: auto;
+        }
+       
+.clearfix:after{
+    content: '';
+    display:table ;
+    clear: both;
+}
+@media screen and (min-width:768px){
+    .container{
+        width: 768px;
+    }
+    .header-left{
+        width: 50%;
+    }
+    .header-right{
+        width: 50%;
+    }
+    .header-right ul li{
+        display: none;
+    }
+    .header-right span{
+        display: block;
+        
+    }
+    .header-right button{
+        
+        display: none;
+    }
+    .header-right  input[type=text]{
+        display: none;
+    }
+    .banner-right{
+        width: 50%;
+        
+    }
+    .banner-left{
+        width: 50%;
+    
+    }
+    .middle{
+        width: 100%;
+    }
+    .laptop-section img{
+        margin-top: 30px;
+        width: 65%;
+        height: 40%;
+        
+    }
+    
+       
+
+}
+@media screen and (min-width:1200px){
+    .container{
+        width: 1140px;
+    }
+    .header-left{
+        width: 30%;
+    }
+    .header-right{
+        width: 50%;
+    }
+    .header ul li{
+        display: block;
+    }
+    .header-right button{
+        display: block;
+    }
+    
+    .header-right span{
+        display: none;
+    }
+    .header-right  input[type=text]{
+        display: block;
+    }
+    .banner-right{
+        width: 50%;
+        
+    }
+    .banner-left{
+        width: 50%;
+        
+
+}
+.middle{
+    width: 100%;
+}
+.laptop-section img{
+    margin-top: 30px;
+    width: 65%;
+    height: 40%
+    
+}
+
+}
