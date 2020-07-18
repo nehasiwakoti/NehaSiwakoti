@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    top:50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+input{
+    margin: 10px;
+    width: 400px;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid #cccccc;
+    font-size: 28px;
+}
+.input:focus{
+    border-bottom: 2px solid dodgerblue;
+
+}
+.fa{
+    position: absolute;
+    left: 380px;
+    top:10px;
+    font-size: 25px;
+    cursor: pointer;
+    color: #9999;
+}
+.fa .active{
+    color:dodgerblue;
+}
