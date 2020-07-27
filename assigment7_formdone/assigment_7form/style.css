@@ -1,0 +1,22 @@
+#main{
+    
+    overflow: hidden;
+          
+} 
+#form {
+    position: absolute;
+    padding: 20px;
+    top:50px;
+    left:400px;
+    box-shadow: 2px 2px 2px 2px gray;
+    
+}
+input {
+    width: 250px;
+    padding:5px;
+}
+
+button {
+    width: 250px;
+    padding:5px;
+}
