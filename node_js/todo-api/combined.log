@@ -1,0 +1,112 @@
+{"message":"undefined undefined","level":"info"}
+{"message":"undefined undefined","level":"info"}
+{"message":"undefined undefined","level":"info"}
+{"message":"undefined undefined","level":"info"}
+{"message":"fetching all users","level":"info"}
+{"message":"undefined undefined","level":"info"}
+{"message":"GET /users/","level":"info"}
+{"message":"fetching all users","level":"info"}
+{"message":"GET /users","level":"info"}
+{"message":"fetching all users","level":"info"}
+{"message":"GET /usersId","level":"info"}
+{"message":"GET /","level":"info"}
+{"message":"GET /favicon.ico","level":"info"}
+{"message":"GET /users","level":"info"}
+{"message":"fetching all users","level":"info"}
+{"message":"GET /usersId","level":"info"}
+{"message":"GET /users","level":"info"}
+{"message":"fetching all users","level":"info"}
+{"message":"GET /users","level":"info"}
+{"message":"fetching all users","level":"info"}
+{"message":"GET /users","level":"info"}
+{"message":"fetching all users","level":"info"}
+{"message":"GET /users","level":"info"}
+{"message":"fetching all users","level":"info"}
+{"message":"GET /users","level":"info"}
+{"message":"fetching all users","level":"info"}
+{"message":"GET /users","level":"info"}
+{"message":"fetching all users","level":"info"}
+{"message":"GET /users","level":"info"}
+{"message":"fetching all users","level":"info"}
+{"message":"GET /","level":"info"}
+{"message":"GET /favicon.ico","level":"info"}
+{"message":"GET /users","level":"info"}
+{"message":"fetching all users","level":"info"}
+{"message":"GET /users","level":"info"}
+{"message":"fetching all users","level":"info"}
+{"message":"GET /users","level":"info"}
+{"message":"fetching all users","level":"info"}
+{"message":"GET /users","level":"info"}
+{"message":"fetching all users","level":"info"}
+{"message":"GET /users","level":"info"}
+{"message":"fetching all users","level":"info"}
+{"message":"GET /users","level":"info"}
+{"message":"fetching all users","level":"info"}
+{"message":"GET /users","level":"info"}
+{"message":"fetching all users","level":"info"}
+{"message":"GET /users","level":"info"}
+{"message":"fetching all users","level":"info"}
+{"message":"GET /2","level":"info"}
+{"message":"GET /users","level":"info"}
+{"message":"fetching all users","level":"info"}
+{"message":"GET /usersid/2","level":"info"}
+{"message":"GET /users/usersId","level":"info"}
+{"message":"fetching user information with id NaN","level":"info"}
+{"message":"GET /users/usersId/1","level":"info"}
+{"message":"GET /","level":"info"}
+{"message":"GET /favicon.ico","level":"info"}
+{"message":"GET /users","level":"info"}
+{"message":"fetching all users","level":"info"}
+{"message":"POST /users","level":"info"}
+{"message":"POST /users","level":"info"}
+{"message":"POST /users","level":"info"}
+{"message":"POST /users","level":"info"}
+{"message":"POST /users/1","level":"info"}
+{"message":"GET /users/1","level":"info"}
+{"message":"fetching user information with id 1","level":"info"}
+{"message":"GET /users/1","level":"info"}
+{"message":"fetching user information with id 1","level":"info"}
+{"message":"GET /users/1","level":"info"}
+{"message":"fetching user information with id 1","level":"info"}
+{"message":"GET /users/1","level":"info"}
+{"message":"fetching user information with id 1","level":"info"}
+{"message":"POST /users","level":"info"}
+{"message":"POST /users","level":"info"}
+{"message":"POST /users","level":"info"}
+{"message":"POST /users","level":"info"}
+{"message":"POST /users","level":"info"}
+{"message":"POST /users","level":"info"}
+{"message":"POST /users","level":"info"}
+{"message":"POST /users","level":"info"}
+{"message":"POST /users","level":"info"}
+{"message":"POST /users","level":"info"}
+{"message":"POST /users","level":"info"}
+{"message":"POST /users","level":"info"}
+{"message":"POST /users","level":"info"}
+{"message":"POST /users","level":"info"}
+{"message":"POST /users","level":"info"}
+{"message":"POST /users","level":"info"}
+{"message":"POST /users","level":"info"}
+{"message":"POST /users","level":"info"}
+{"message":"POST /users","level":"info"}
+{"message":"POST /users","level":"info"}
+{"message":"POST /users","level":"info"}
+{"message":"POST /users","level":"info"}
+{"message":"DELETE /users/1","level":"info"}
+{"message":"fetching user information with id 1","level":"info"}
+{"message":"DELETE /users/1","level":"info"}
+{"message":"fetching user information with id 1","level":"info"}
+{"message":"DELETE /users/1","level":"info"}
+{"message":"fetching user information with id 1","level":"info"}
+{"message":"DELETE /users/1","level":"info"}
+{"message":"fetching user information with id 1","level":"info"}
+{"message":"DELETE /users/1","level":"info"}
+{"message":"fetching user information with id 1","level":"info"}
+{"message":"POST /users","level":"info"}
+{"message":"PUT /users/1","level":"info"}
+{"message":"PUT /users/1","level":"info"}
+{"message":"PUT /users/1","level":"info"}
+{"message":"fetching user information with id 1","level":"info"}
+{"message":"cannot find the user with id 1","level":"error"}
+{"message":"PUT /users/2","level":"info"}
+{"message":"fetching user information with id 2","level":"info"}
